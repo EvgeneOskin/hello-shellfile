@@ -1,0 +1,5 @@
+Package: hello-shellfire
+Description-md5: ce8c9fc0731d8ae91c9fcbc87bdacd4c
+Description-en: hello-shellfire is a tutorial application
+     The first line is used as a summary by RPM.
+
