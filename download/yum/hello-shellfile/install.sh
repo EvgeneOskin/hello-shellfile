@@ -7,8 +7,8 @@ repoFileContent='[hello-shellfile]
 name=hello-shellfile
 #baseurl=https://EvgeneOskin.github.io/hello-shellfire/download/yum/hello-shellfile
 mirrorlist=https://EvgeneOskin.github.io/hello-shellfire/download/yum/hello-shellfile/mirrorlist
-#gpgkey not set as repository is unsigned
-gpgcheck=0
+gpgkey=https://EvgeneOskin.github.io/hello-shellfire/download/yum/hello-shellfile/RPM-GPG-KEY-hello-shellfile
+gpgcheck=1
 enabled=1
 protect=0'
 

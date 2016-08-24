@@ -9,10 +9,10 @@ Source: hello-shellfire
 Version: 2016.0824.2229-1
 Depends: dash, coreutils
 Filename: pool/multiverse/h/hello-shellfire/hello-shellfire_2016.0824.2229-1_all.deb
-Size: 23878
-MD5sum: 3f141d5ecc45f730e21113b239224ddb
-SHA1: 6e697d5f1b953ba9483a1efc328d6ef5659c1fe4
-SHA256: a3ca59bc1483438930ce6eddb67800247c6ff237db27297c0c7ae23616e02c70
+Size: 23880
+MD5sum: b6629598394f3a40212f21967d065411
+SHA1: 811d00f89cf060bda51e2781bf72c2ad4f76acb9
+SHA256: 39fdc6e9baf251dfbcd1ea39591ad3c411cf6f331aa114ac0527d7c416c925ac
 Description: hello-shellfire is a tutorial application
      The first line is used as a summary by RPM.
 Homepage: https://github.com/EvgeneOskin/hello-shellfile
