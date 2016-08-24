@@ -1,0 +1,6 @@
+build()
+{
+    build_prepareOutput
+
+    build_fattenAndSwaddle 'hello-shellfire' "$build_relativePath" 'hello'
+}
