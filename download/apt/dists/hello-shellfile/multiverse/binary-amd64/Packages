@@ -21,3 +21,26 @@ Build-Essential: no
 Origin: EvgeneOskin
 Supported: 9m
 
+Package: hello-shellfire
+Essential: no
+Priority: extra
+Section: misc
+Installed-Size: 143
+Maintainer: Eugene Oskin <eoskin@crystalnix.com>
+Architecture: all
+Source: hello-shellfire
+Version: 2016.0825.1023-1
+Depends: dash, coreutils
+Filename: pool/multiverse/h/hello-shellfire/hello-shellfire_2016.0825.1023-1_all.deb
+Size: 23896
+MD5sum: ddbfc0163802fc52bb5d1c92bb7e3d0c
+SHA1: 6d82dea3ab09cb29e85bf92e26dff5f78df86e7e
+SHA256: c556ac204166428bace6a3c646a954a0ab8fa422dc8effb16ddcbe9762c112d2
+Description: hello-shellfire is a tutorial application
+     The first line is used as a summary by RPM.
+Homepage: https://github.com/EvgeneOskin/hello-shellfile
+Bugs: https://github.com/EvgeneOskin/hello-shellfire/issues
+Build-Essential: no
+Origin: EvgeneOskin
+Supported: 9m
+
